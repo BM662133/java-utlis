@@ -1,10 +1,8 @@
-package com.example.textutils;
+package com.bm.text;
 
 import java.util.Locale;
 
-/**
- * Stateless helper methods for common text operations.
- */
+/** Stateless helper methods for common text operations. */
 public final class TextUtils {
 
     private TextUtils() {

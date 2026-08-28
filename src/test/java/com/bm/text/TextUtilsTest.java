@@ -1,4 +1,4 @@
-package com.example.textutils;
+package com.bm.text;
 
 import org.junit.jupiter.api.Test;
 
